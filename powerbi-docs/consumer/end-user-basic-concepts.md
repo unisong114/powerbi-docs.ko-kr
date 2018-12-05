@@ -26,7 +26,7 @@ ms.locfileid: "49641753"
 "Power BI Desktop" 또는 "Desktop"이라는 용어는 분명히 들어보셨을 것입니다. 이는 대시보드와 보고서를 빌드하고 소비자와 함께 공유하는 *설계자*가 사용하는 독립형 도구입니다. 소비자는 Power BI 서비스만 사용하게 되므로 다른 Power BI 도구가 있다는 것만 알아두면 됩니다. 그리고 이 문서는 Power BI 서비스에만 적용됩니다. 
 
 ## <a name="terminology-and-concepts"></a>용어 및 개념
-이 문서는 Power BI의 시각적 둘러보기나 실습용 자습서가 아닙니다. Power BI 용어 및 개념을 익히는데 도움이 될 만한 개요 문서입니다. 용어와 전반적인 개념을 알려줄 것입니다. Power BI 서비스와 탐색 창을 둘러보려면 [둘러보기](end-user-experience.md)를 방문하세요.
+이 문서는 Power BI의 시각적 둘러보기나 실습용 자습서가 아닙니다. Power BI 용어 및 개념을 익히는 데 도움이 될 만한 개요 문서입니다. 용어와 전반적인 개념을 알려줄 것입니다. Power BI 서비스와 탐색 창을 둘러보려면 [둘러보기](end-user-experience.md)를 방문하세요.
 
 ## <a name="open-power-bi-service-for-the-first-time"></a>Power BI 서비스를 처음으로 열기
 대부분의 Power BI 소비자는 1) 자신의 회사에서 라이선스를 구입했고, 2) 관리자가 그러한 라이선스를 직원에게 할당했기 때문에 Power BI 서비스를 사용합니다. 
@@ -50,7 +50,7 @@ Power BI 소비자를 위한 5가지 구성 요소는 ***시각화***, ***대시
 ![](media/end-user-basic-concepts/power-bi-workflow.png)
 
 가장 기본적으로 
-* ![시각화 아이콘](media/end-user-basic-concepts/visual.png) ***시각화***(또는 *시각적 개체*)는 Power BI *설계자*가 *보고서* 및 *데이터 집합*의 데이터를 사용하여 작성한 차트 유형입니다. 일반적으로 *설계자*는 Power BI Desktop의 시각적 개체를 작성합니다. 
+* ![시각화 아이콘](media/end-user-basic-concepts/visual.png) ***시각화***(또는 *시각적 개체*)는 Power BI *설계자*가 *보고서* 및 *데이터 집합*의 데이터를 사용하여 빌드한 차트 유형입니다. 일반적으로 *설계자*는 Power BI Desktop의 시각적 개체를 빌드합니다.
 
     자세한 내용은 [Power BI *소비자*용 시각화](end-user-visualizations.md)를 참조하세요.
 
