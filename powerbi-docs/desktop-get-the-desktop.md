@@ -18,7 +18,7 @@ ms.lasthandoff: 11/01/2018
 ms.locfileid: "50909597"
 ---
 # <a name="get-power-bi-desktop"></a>Power BI Desktop 다운로드
-**Power BI Desktop**을 통해 데이터를 시각화하는 고급 쿼리, 모델 및 보고서를 빌드할 수 있습니다. **Power BI Desktop**에서 Power BI 서비스에 게시하여 데이터 모델을 하고, 보고서를 만들고, 작업을 공유할 수 있습니다.  **Power BI Desktop**은 무료로 다운로드할 수 있습니다.
+**Power BI Desktop**을 통해 데이터를 시각화하는 고급 쿼리, 모델 및 보고서를 빌드할 수 있습니다. **Power BI Desktop**에서 Power BI 서비스에 게시하여 데이터 모델을 빌드하고, 보고서를 만들고, 작업을 공유할 수 있습니다. **Power BI Desktop**은 무료로 다운로드할 수 있습니다.
 
 **Power BI Desktop**을 두 가지 방법으로 가져올 수 있습니다. 각각은 다음 섹션에 설명되어 있습니다.
 
