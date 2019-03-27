@@ -20,7 +20,7 @@ ms.locfileid: "54283119"
 # <a name="use-drillthrough-in-power-bi-desktop"></a>Power BI Desktop에서 드릴스루 사용
 **Power BI Desktop**의 **드릴스루**를 사용하여 보고서에서 공급업체, 고객 또는 제조업체와 같은 특정 엔터티에 초점을 맞춘 페이지를 만들 수 있습니다. 사용자는 다른 보고서 페이지에서 데이터 요소를 마우스 오른쪽 단추로 클릭할 수 있습니다. 그런 다음, 초점이 맞춰진 페이지로 드릴스루하여 해당 컨텍스트로 필터링되는 세부 정보를 확인할 수 있습니다.
 
-![드릴스루 사용](media/desktop-drillthrough/drillthrough_01.png)
+![드릴스루 사용](media/desktop-drillthrough/drillthrough_01.png) - Image should be changed to the lates version.
 
 ## <a name="using-drillthrough"></a>드릴스루 사용
 1. **드릴스루**를 사용하려면 드릴스루를 제공할 엔터티 형식에 대한 원하는 시각적 개체가 있는 보고서 페이지를 만듭니다. 
