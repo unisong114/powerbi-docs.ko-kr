@@ -39,7 +39,7 @@ Power BI 시각화는 데이터 세트에서 데이터를 사용하여 구성됩
 4. 방향을 변경하려면 시각화의 오른쪽 맨 위 모서리에서 세로 레이아웃 ![](media/service-reports-show-data/power-bi-vertical-icon-new.png)을 선택합니다.
    
    ![시각적 개체 및 데이터 가로 표시](media/service-reports-show-data/power-bi-explore-show-data2.png)
-5. 데이터를 .csv 파일로 내보내려면 줄임표를 선택하고 **데이터 내보내기**를 선택합니다.
+5. 데이터를 .csv 파일로 내보내려면 추가 옵션을 선택하고 **데이터 내보내기**를 선택합니다.
    
     ![데이터 내보내기 선택](media/service-reports-show-data/power-bi-export-data-new.png)
    
