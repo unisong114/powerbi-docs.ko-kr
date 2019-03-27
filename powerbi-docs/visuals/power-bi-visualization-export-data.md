@@ -26,7 +26,7 @@ Will이 보고서의 시각화 중 하나에서 데이터를 내보내고 .xlsx 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KjheMTGjDXw" frameborder="0" allowfullscreen></iframe>
 
 ## <a name="from-a-visualization-on-a-power-bi-dashboard"></a>Power BI 대시보드의 시각화에서
-1. 시각화의 오른쪽 위 모서리에 있는 줄임표를 선택합니다.
+1. 시각화의 오른쪽 위 모서리에 있는 추가 옵션을 선택합니다.
 
     ![](media/power-bi-visualization-export-data/pbi-export-tile3.png)
 2. **데이터 내보내기** 아이콘을 선택합니다.
@@ -52,7 +52,7 @@ Will이 보고서의 시각화 중 하나에서 데이터를 내보내고 .xlsx 
 
    이제 데이터를 내보내기 위한 옵션을 모두 사용할 준비가 되었습니다. 
 
-4. 시각화의 오른쪽 위 모서리에 있는 줄임표를 선택합니다. **데이터 내보내기**를 선택합니다.
+4. 시각화의 오른쪽 위 모서리에 있는 추가 옵션을 선택합니다. **데이터 내보내기**를 선택합니다.
 
    ![](media/power-bi-visualization-export-data/power-bi-export-data2.png)
 5. Power BI 온라인에서 시각화에 집계가 있는 경우(한 예로, **개수**를 *평균*, *합계* 또는 *최소*로 변경한 경우) 다음 두 가지 옵션이 있습니다. **요약된 데이터** 및 **기본 데이터**. Power BI Desktop에서는 **요약된 데이터**에 대한 옵션만 사용할 수 있습니다. 집계 이해를 위한 도움은 [Power BI의 집계](../service-aggregates.md)를 참조하세요.
