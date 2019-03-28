@@ -50,7 +50,7 @@ Amanda가 대시보드의 타일에 일부 경고를 추가하는 과정을 시�
 
 이 예제는 [소매점 분석 샘플](http://go.microsoft.com/fwlink/?LinkId=529778) 대시보드의 카드 타일을 사용합니다.
 
-1. 대시보드 계기, KPI 또는 카드 타일에서 줄임표(...)를 선택합니다.
+1. 대시보드 계기, KPI 또는 카드 타일에서 추가 옵션(...)을 선택합니다.
    
    ![전체 매장 타일](media/end-user-alerts/powerbi-card.png)
 2. 종 모양 아이콘 ![경고 아이콘](media/end-user-alerts/power-bi-bell-icon.png) 또는 **경고 관리**를 선택하여 **총 매장**에 대한 하나 이상의 경고를 추가합니다.
