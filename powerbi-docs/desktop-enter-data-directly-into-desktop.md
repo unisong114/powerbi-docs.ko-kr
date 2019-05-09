@@ -21,7 +21,7 @@ ms.locfileid: "54274884"
 # <a name="enter-data-directly-into-power-bi-desktop"></a>Power BI Desktop에 데이터 직접 연결
 Power BI Desktop에서는 데이터를 직접 입력하고 보고서 및 시각화에 해당 데이터를 사용할 수 있습니다. 예를 들어 통합 문서 또는 웹 페이지의 일부를 복사한 후 Power BI Desktop에 붙여넣을 수 있습니다.
 
-데이터를 직접 입력하려면 **홈** 리본에서 **데이터 입력**을 선택합니다.
+데이터를 직접 입력하려면 리본 메뉴 **홈** 탭에서 **데이터 입력**을 선택합니다.
 
 ![](media/desktop-enter-data-directly-into-desktop/enter-data-directly_1.png)
 
