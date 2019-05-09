@@ -26,7 +26,7 @@ Power BI Desktop의 **쿼리 편집기**에서 **Python**을 사용하려면 로
 ## <a name="using-python-in-query-editor"></a>쿼리 편집기에서 Python 사용
 **쿼리 편집기**에서 **Python**을 사용하는 방법을 보여 주려면 .CSV 파일 형식의 주식 시장 데이터 세트 예제를 가져오세요. [여기에서 다운로드](http://download.microsoft.com/download/F/8/A/F8AA9DC9-8545-4AAE-9305-27AD1D01DC03/EuStockMarkets_NA.csv)하여 진행할 수 있습니다. 이 예제에 대한 단계는 다음과 같습니다.
 
-1. 먼저 데이터를 **Power BI Desktop**으로 로드합니다. 이 예제에서는 *EuStockMarkets_NA.csv* 파일을 로드하고, **Power BI Desktop**의 **홈** 리본에서 **데이터 가져오기 > CSV**를 선택합니다.
+1. 먼저 데이터를 **Power BI Desktop**으로 로드합니다. 이 예제에서는 *EuStockMarkets_NA.csv* 파일을 로드하고, **Power BI Desktop**의 리본 메뉴 **홈** 리본에서 **데이터 가져오기 > CSV**를 선택합니다.
    
    ![](media/desktop-python-in-query-editor/python-in-query-editor-1.png)
 2. 파일을 선택하고 **열기**를 선택하면 CSV는 **CSV 파일** 대화 상자에 표시됩니다.
