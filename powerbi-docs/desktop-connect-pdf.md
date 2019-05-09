@@ -36,7 +36,7 @@ PDF 커넥터는 **Power BI Desktop**에서 미리 보기로 있으며, 사용�
 [Power BI Desktop 가져오기](desktop-get-the-desktop.md)의 링크에서 설치할 수 있는 **Power BI Desktop**의 최신 릴리스로 업그레이드하는 것이 좋습니다. 
 
 ## <a name="connect-to-a-pdf-file"></a>PDF 파일에 연결
-**PDF** 파일에 연결하려면 Power BI Desktop의 **홈** 리본에서 **데이터 가져오기**를 선택합니다. 왼쪽의 범주에서 **파일**을 선택하면 **PDF(베타)** 가 표시됩니다.
+**PDF** 파일에 연결하려면 Power BI Desktop의 리본 메뉴 **홈** 탭에서 **데이터 가져오기**를 선택합니다. 왼쪽의 범주에서 **파일**을 선택하면 **PDF(베타)** 가 표시됩니다.
 
 ![데이터 가져오기에서 PDF 선택](media/desktop-connect-pdf/connect-pdf_01.png)
 
