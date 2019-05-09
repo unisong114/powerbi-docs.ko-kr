@@ -78,7 +78,7 @@ Power BI Desktop에서 모델을 만드는 데 사용한 데이터의 다양한 
 
 ## <a name="share-reports"></a>보고서 공유
 
-다른 사용자와 공유할 준비가 된 보고서를 **Power BI 서비스**에 **게시**하고 Power BI 라이선스가 있는 조직의 모든 사용자가 사용할 수 있도록 설정할 수 있습니다. Power BI Desktop 보고서를 게시하려면 Power BI Desktop의 **홈** 리본에서 **게시** 단추를 선택합니다.
+다른 사용자와 공유할 준비가 된 보고서를 **Power BI 서비스**에 **게시**하고 Power BI 라이선스가 있는 조직의 모든 사용자가 사용할 수 있도록 설정할 수 있습니다. Power BI Desktop 보고서를 게시하려면 Power BI Desktop의 리본 메뉴 **홈** 탭에서 **게시** 단추를 선택합니다.
 
 ![Power BI Desktop에서 보고서 게시](media/desktop-what-is-desktop/what-is-desktop_06.png)
 
