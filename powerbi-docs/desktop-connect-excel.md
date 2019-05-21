@@ -21,7 +21,7 @@ ms.locfileid: "54282681"
 # <a name="connect-to-excel-in-power-bi-desktop"></a>Power BI Desktop에서 Excel에 연결
 Power BI Desktop에서 Excel 통합 문서에 연결하는 것은 간단하며 이 문서에서는 이에 대한 단계를 안내합니다.
 
-Power BI Desktop의 **홈** 리본에서 **데이터 가져오기 > Excel**을 선택합니다.
+Power BI Desktop의 리본 메뉴 **홈** 탭에서 **데이터 가져오기 > Excel**을 선택합니다.
 
 ![](media/desktop-connect-excel/connect_to_excel_1.png)
 
