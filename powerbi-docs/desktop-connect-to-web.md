@@ -21,7 +21,7 @@ ms.locfileid: "54290079"
 # <a name="connect-to-a-web-page-from-power-bi-desktop"></a>Power BI Desktop에서 웹 페이지에 연결
 웹 페이지에 연결하고 해당 데이터를 Power BI Desktop으로 가져와 시각적 개체 및 데이터 모델에서 사용할 수 있습니다.
 
-Power BI Desktop의 **홈** 리본에서 **데이터 가져오기 > 웹**을 선택합니다.
+Power BI Desktop의 리본 메뉴 **홈** 탭에서 **데이터 가져오기 > 웹**을 선택합니다.
 
 ![](media/desktop-connect-to-web/connect-to-web_1.png)
 
