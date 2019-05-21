@@ -34,7 +34,7 @@ Azure Consumption Insights를 사용하면 Azure Enterprise Agreement 청구 계
 
 **Azure Consumption Insights** 커넥터를 사용하여 성공적으로 연결하려면 Azure Portal 내에서 엔터프라이즈 기능에 액세스해야 합니다.
 
-**Azure Consumption Insights** 커넥터를 사용하여 연결하려면 **Power BI Desktop**의 **홈** 리본에서 **데이터 가져오기**를 선택합니다. 왼쪽에 있는 범주에서 **온라인 서비스**를 선택하면 **Microsoft Azure Consumption Insights(베타)** 가 표시됩니다. **연결**을 선택합니다.
+**Azure Consumption Insights** 커넥터를 사용하여 연결하려면 **Power BI Desktop**의 리본 메뉴 **홈** 탭에서 **데이터 가져오기**를 선택합니다. 왼쪽에 있는 범주에서 **온라인 서비스**를 선택하면 **Microsoft Azure Consumption Insights(베타)** 가 표시됩니다. **연결**을 선택합니다.
 
 ![](media/desktop-connect-azure-consumption-insights/azure-consumption-insights_01b.png)
 
@@ -89,7 +89,7 @@ Azure Consumption Insights를 사용하면 Azure Enterprise Agreement 청구 계
 
 **Azure Consumption Insights** 커넥터를 사용하여 데이터를 성공적으로 로드하면 **쿼리 편집기**를 사용하여 고유한 사용자 지정 측정값 및 열을 만들 수 있고 **Power BI 서비스**에서 공유할 수 있는 시각적 개체, 보고서 및 대시보드를 만들 수 있습니다.
 
-Azure에는 비어 있는 쿼리를 사용하여 검색할 수 있는 샘플 사용자 지정 쿼리의 컬렉션이 포함되어 있습니다. 이렇게 하려면 **Power BI Desktop**의 **홈** 리본에서 **데이터 가져오기**의 드롭다운 화살표를 선택한 후 **빈 쿼리**를 선택합니다. 왼쪽에서 **쿼리** 창을 마우스 오른쪽 단추로 클릭하고 나타나는 메뉴에서 **새 쿼리 > 빈 쿼리**를 선택하여 **쿼리 편집기**에서 이 작업을 수행할 수 있습니다.
+Azure에는 비어 있는 쿼리를 사용하여 검색할 수 있는 샘플 사용자 지정 쿼리의 컬렉션이 포함되어 있습니다. 이렇게 하려면 **Power BI Desktop**의 리본 메뉴 **홈** 탭에서 **데이터 가져오기**의 드롭다운 화살표를 선택한 후 **빈 쿼리**를 선택합니다. 왼쪽에서 **쿼리** 창을 마우스 오른쪽 단추로 클릭하고 나타나는 메뉴에서 **새 쿼리 > 빈 쿼리**를 선택하여 **쿼리 편집기**에서 이 작업을 수행할 수 있습니다.
 
 **수식 입력줄**에 다음을 입력합니다.
 
@@ -116,10 +116,10 @@ Azure에는 비어 있는 쿼리를 사용하여 검색할 수 있는 샘플 사
 최신 **Azure Consumption Insights** 커넥터에 대한 고객 전환을 도와 사용자 지정 대시보드 또는 보고서를 만드는 작업을 유지하기 위해 다음 단계에서는 새 커넥터로 이동하는 방법을 보여줍니다.
 
 ### <a name="step-1-connect-to-azure-using-the-new-connector"></a>1단계: 새 커넥터를 사용하여 Azure에 연결
-첫 번째 단계는 이 문서의 앞부분에서 자세히 설명한 **Azure Consumption Insights** 커넥터를 사용하여 연결하는 것입니다. 이 단계에서 **Power BI Desktop**의 **홈** 리본에서 **데이터 가져오기 > 빈 쿼리**를 선택합니다.
+첫 번째 단계는 이 문서의 앞부분에서 자세히 설명한 **Azure Consumption Insights** 커넥터를 사용하여 연결하는 것입니다. 이 단계에서 **Power BI Desktop**의 리본 메뉴 **홈** 탭에서 **데이터 가져오기 > 빈 쿼리**를 선택합니다.
 
 ### <a name="step-2-use-the-advanced-editor-to-create-a-query"></a>2단계: 고급 편집기를 사용하여 쿼리 만들기
-**쿼리 편집기**에 있는 **홈** 리본의 **쿼리** 섹션에서 **고급 편집기**를 선택합니다. **고급 편집기** 창이 나타나면 다음 쿼리를 입력합니다.
+**쿼리 편집기**에 있는 리본 메뉴 **홈** 탭의 **쿼리** 섹션에서 **고급 편집기**를 선택합니다. **고급 편집기** 창이 나타나면 다음 쿼리를 입력합니다.
 
     let    
         enrollmentNumber = "100",
@@ -212,7 +212,7 @@ Azure Portal의 열 및 세부 정보 이름은 API 및 커넥터와 유사하�
 
 이 섹션에서는 고객 계약 청구 계정에 연결하는 방법을 알아봅니다.
 
-**Azure Cost Management** 커넥터를 사용하여 연결하려면 **Power BI Desktop**의 **홈** 리본에서 **데이터 가져오기**를 선택합니다.  왼쪽에 있는 범주에서 **Azure**를 선택하면 **Azure Cost Management(베타)** 가 표시됩니다. **연결**을 선택합니다.
+**Azure Cost Management** 커넥터를 사용하여 연결하려면 **Power BI Desktop**의 리본 메뉴 **홈** 탭에서 **데이터 가져오기**를 선택합니다.  왼쪽에 있는 범주에서 **Azure**를 선택하면 **Azure Cost Management(베타)** 가 표시됩니다. **연결**을 선택합니다.
 
 ![](media/desktop-connect-azure-consumption-insights/azure-cost-management-00.png)
 
@@ -255,7 +255,7 @@ Azure 이메일 및 암호를 사용하여 로그인하라는 메시지가 표�
 
 개월 수를 사용자 지정하거나 API 버전을 변경하거나 반환된 데이터에 더 고급 논리를 수행하려는 경우 사용자 지정 M 쿼리를 만들 수 있습니다.
 
-**Power BI Desktop**의 **홈** 리본으로 이동하고, **데이터 가져오기**의 드롭다운을 선택한 다음, **빈 쿼리**를 선택합니다.  이 작업은 **쿼리 편집기**에서도 수행할 수 있습니다. 왼쪽에 있는 **쿼리** 창을 마우스 오른쪽 단추로 클릭하고, 나타나는 메뉴에서 **새 쿼리 > 빈 쿼리 메뉴**를 선택하면 됩니다.
+**Power BI Desktop**의 리본 메뉴 **홈** 탭으로 이동하고, **데이터 가져오기**의 드롭다운을 선택한 다음, **빈 쿼리**를 선택합니다.  이 작업은 **쿼리 편집기**에서도 수행할 수 있습니다. 왼쪽에 있는 **쿼리** 창을 마우스 오른쪽 단추로 클릭하고, 나타나는 메뉴에서 **새 쿼리 > 빈 쿼리 메뉴**를 선택하면 됩니다.
 
 **수식 입력줄**에서 다음을 입력합니다. `billingProfileId`를 실제 ID로 바꾸고, “charges”를 유효한 테이블 이름(위에서 나열)으로 바꾸어 입력합니다.
 
