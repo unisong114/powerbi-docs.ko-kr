@@ -21,7 +21,7 @@ ms.locfileid: "54279139"
 Power BI Desktop에서 Google **BigQuery** 데이터베이스에 연결하고 Power BI Desktop의 다른 데이터 원본처럼 기본 데이터를 사용할 수 있습니다.
 
 ## <a name="connect-to-google-bigquery"></a>Google BigQuery에 연결
-Google **BigQuery** 데이터베이스에 연결하려면 Power BI Desktop의 **홈** 리본에서 **데이터 가져오기**를 선택합니다. 왼쪽에 있는 범주에서 **데이터베이스**를 선택하면 **Google BigQuery**가 표시됩니다.
+Google **BigQuery** 데이터베이스에 연결하려면 Power BI Desktop의 리본 메뉴 **홈** 탭에서 **데이터 가져오기**를 선택합니다. 왼쪽에 있는 범주에서 **데이터베이스**를 선택하면 **Google BigQuery**가 표시됩니다.
 
 ![Google BigQuery에 대한 데이터 가져오기 대화 상자](media/desktop-connect-bigquery/connect_bigquery_01.png)
 
