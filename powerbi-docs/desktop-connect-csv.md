@@ -21,7 +21,7 @@ ms.locfileid: "54285441"
 # <a name="connect-to-csv-files-in-power-bi-desktop"></a>Power BI Desktop에서 CSV 파일에 연결
 Power BI Desktop에서 쉼표로 구분된 값(*CSV*) 파일에 연결하는 것은 Excel 통합 문서에 연결하는 것과 매우 유사합니다. 둘 다 간편하며 이 문서에서는 액세스 권한이 있는 CSV 파일에 연결하는 방법을 단계별로 안내합니다.
 
-시작하려면 Power BI Desktop의 **홈** 리본에서 **데이터 가져오기 > CSV**를 선택합니다.
+시작하려면 Power BI Desktop의 리본 메뉴 **홈** 탭에서 **데이터 가져오기 > CSV**를 선택합니다.
 
 ![](media/desktop-connect-csv/connect-to-csv_1.png)
 
