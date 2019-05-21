@@ -21,7 +21,7 @@ ms.locfileid: "54281117"
 # <a name="connect-to-odata-feeds-in-power-bi-desktop"></a>Power BI Desktop에서 OData 피드에 연결
 Power BI Desktop에서 **OData 피드**에 연결하고 Power BI Desktop의 다른 데이터 원본처럼 기본 데이터를 사용할 수 있습니다.
 
-OData 피드에 연결하려면 Power BI Desktop의 **홈** 리본에서 **데이터 가져오기 > OData 피드**를 선택합니다.
+OData 피드에 연결하려면 Power BI Desktop의 리본 메뉴 **홈** 탭에서 **데이터 가져오기 > OData 피드**를 선택합니다.
 
 ![](media/desktop-connect-odata/connect-to-odata_1.png)
 
