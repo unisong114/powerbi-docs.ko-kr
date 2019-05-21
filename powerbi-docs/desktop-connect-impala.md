@@ -23,7 +23,7 @@ Power BI Desktop에서 **Impala** 데이터베이스에 연결하고 Power BI De
 ## <a name="connect-to-an-impala-database"></a>Impala 데이터베이스에 연결
 **Impala** 데이터베이스에 연결하려면 다음 단계를 수행합니다. 
 
-1. Power BI Desktop의 **홈** 리본에서 **데이터 가져오기**를 선택합니다. 
+1. Power BI Desktop의 리본 메뉴 **홈** 탭에서 **데이터 가져오기**를 선택합니다. 
 
 2. 왼쪽 범주에서 **데이터베이스**를 선택합니다. 그러면 **Impala**가 표시됩니다.
 
